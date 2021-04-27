@@ -10,7 +10,13 @@ So the goal is to create a model to predict which of the customers are at high r
 ### Installations  
 * Numpy   
 * Pandas    
-* Tensorflow   
+* Tensorflow  
+
+### Conclusion  
+
+We will get the binary outcome as '1' or '0' that is, which customer is gonna leave the bank or not from the dataset of customers from 6 months.  
+
+
 
 
 
