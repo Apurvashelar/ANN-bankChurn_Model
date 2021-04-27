@@ -8,9 +8,9 @@ Here we've a dataset of a bank. There are 10 thousand rows(entries) in the datas
 So the goal is to create a model to predict which of the customers are at high risk of leaving.  
 
 ### Installations  
-*Numpy*  
-*Pandas*
-*Tensorflow*
+* Numpy *  
+* Pandas *  
+* Tensorflow *
 
 
 
